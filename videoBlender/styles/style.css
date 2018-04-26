@@ -1,0 +1,18 @@
+.content{
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.labelText{
+/*  font-size: 2px;*/
+  text-align: center;
+}
+
+#links{
+  padding-left: 20.5vw;
+  padding-right: 20.5vw;
+}
+
+.blendGallery{
+  padding-top: 25px;
+}
